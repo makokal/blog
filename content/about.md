@@ -4,7 +4,7 @@ date: 2020-09-18T23:08:17-05:00
 draft: false
 ---
 
-I am currently working at [Voyage Auto](http://voyage.auto) building decision making ingredients for autonomous driving.
+I am currently working at [Voyage Auto](http://voyage.auto) building decision making ingredients for autonomous driving. I design and build software for behavior planning, predictions and remote discrete assistance.
 
 Previously, I was at [Apple SPG](https://www.apple.com) building autonomous systems, and before that I was conducting research on normative navigation behaviors for mobile service robots at the [University of Freiburg](https://www.uni-freiburg.de) as part of my PhD studies.
 In the more distant past, I have been fortunate to work in a number of labs including [DFKI](https://robotik.dfki-bremen.de/en/startpage.html), the [Manipulation lab at RI-CMU](https://www.ri.cmu.edu/robotics-area/manipulation-lab/), [TU-Munich](https://www.tum.de), [Idiap research institute](http://www.idiap.ch) among others.</p>
