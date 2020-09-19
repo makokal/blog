@@ -1,4 +1,4 @@
-baseURL = "http://makokal.github.io/"
+baseURL = "http://makokal.com"
 title = "Billy Okal"
 
 theme = "hugo-coder"
@@ -55,3 +55,7 @@ pygmentscodefencesguesssyntax = true
     name = "About"
     weight = 2
     url = "/about/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/publications/"
