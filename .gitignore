@@ -1,0 +1,7 @@
+/public/
+/resources/_gen/
+
+*.swp
+*.swo
+.DS_Store
+*~
