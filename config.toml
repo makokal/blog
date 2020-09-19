@@ -1,4 +1,4 @@
-baseURL = "http://makokal.com/"
+baseURL = "http://makokal.github.io/"
 title = "Billy Okal"
 
 theme = "hugo-coder"
