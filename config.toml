@@ -18,11 +18,11 @@ pygmentscodefencesguesssyntax = true
     author = "Billy Okal"
     info = "Engineer, Roboticist, Machine Learning Practitioner"
     description = "Billy Okal's personal website"
-    keywords = "blog,developer,personal"
+    keywords = "blog,developer,personal,robotics,autonomous"
     avatarurl = "images/billy.png"
 
-    # favicon_32 = "/img/favicon-32x32.png"
-    # favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/images/favicons/favicon-32x32.png"
+    favicon_16 = "/images/favicons/favicon-16x16.png"
 
     # footercontent = "Built on Earth"
 
