@@ -1,3 +1,57 @@
-baseURL = "http://makokal.com/"
-languageCode = "en-us"
+baseURL = "http://makokal.github.io/"
 title = "Billy Okal"
+
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Billy Okal"
+    info = "Engineer, Roboticist, Machine Learning Practitioner"
+    description = "Billy Okal's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/billy.png"
+
+    # favicon_32 = "/img/favicon-32x32.png"
+    # favicon_16 = "/img/favicon-16x16.png"
+
+    # footercontent = "Built on Earth"
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    # custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/makokal/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/jadalawa/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/post/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
