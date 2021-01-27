@@ -4,7 +4,7 @@ date: 2020-09-18T23:08:17-05:00
 draft: false
 ---
 
-I am currently working at [6 River Systems](http://6river.com) working on all things robotics for application in fulfillment. See more about our robots, called Chucks [here](https://www.youtube.com/watch?v=Ll9Z18fMBu4).
+I am currently at [6 River Systems](http://6river.com) (a [Shopify](https://shopify.engineering) company) working on all things robotics for application in fulfillment. See more about our robots, called Chucks [here](https://www.youtube.com/watch?v=Ll9Z18fMBu4).
 
 Previously, I was at [Voyage Auto](http://voyage.auto) building decision making ingredients (behavior planning, predictions and remote discrete assistance) for autonomous driving, and before that, I was at [Apple SPG](https://www.apple.com) building autonomous systems. 
 Prior to venturing into industry, I was an academic conducting research on normative navigation behaviors for mobile service robots at the [University of Freiburg](https://www.uni-freiburg.de) as part of my PhD studies.
